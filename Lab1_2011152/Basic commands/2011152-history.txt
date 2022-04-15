@@ -1,0 +1,6 @@
+mkdir 2011152
+cd 2011152
+ls -la
+cat example.txt
+head -5 example.txt
+tail -5 example.txt
